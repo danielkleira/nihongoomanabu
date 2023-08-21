@@ -1,0 +1,27 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Japanese_Hiragana_kyokashotai_A.svg",
+        "trad": "a",
+        "id": 0
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Japanese_Hiragana_kyokashotai_I.svg",
+        "trad": "i",
+        "id": 1
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Japanese_Hiragana_kyokashotai_U.png",
+        "trad": "u",
+        "id": 2
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Japanese_Hiragana_kyokashotai_E.png",
+        "trad": "e",
+        "id": 3
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Japanese_Hiragana_kyokashotai_O.svg",
+        "trad": "o",
+        "id": 4
+    }
+]

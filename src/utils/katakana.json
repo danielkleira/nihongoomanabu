@@ -1,0 +1,102 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Japanese_Katakana_A.svg",
+        "trad": "a",
+        "id": 0
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Japanese_Katakana_I.svg",
+        "trad": "i",
+        "id": 1
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Katakana_letter_small_U.svg",
+        "trad": "u",
+        "id": 2
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Japanese_Katakana_kyokashotai_E.svg",
+        "trad": "e",
+        "id": 3
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Japanese_Katakana_O.svg",
+        "trad": "o",
+        "id": 4
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Katakana_letter_Ka.svg",
+        "trad": "ka",
+        "id": 5
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Katakana_letter_Ki.svg",
+        "trad": "ki",
+        "id": 6
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Katakana_letter_Ku.svg",
+        "trad": "ku",
+        "id": 7
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Katakana_letter_Ke.svg",
+        "trad": "ke",
+        "id": 8
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Katakana_letter_Ko.svg",
+        "trad": "ko",
+        "id": 9
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Katakana_letter_Sa.svg",
+        "trad": "sa",
+        "id": 10
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Katakana_letter_Si.svg",
+        "trad": "shi",
+        "id": 11
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Katakana_letter_Su.svg",
+        "trad": "su",
+        "id": 12
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Katakana_letter_Se.svg",
+        "trad": "se",
+        "id": 13
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Katakana_letter_So.svg",
+        "trad": "so",
+        "id": 14
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Katakana_letter_Ta.svg",
+        "trad": "ta",
+        "id": 15
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Katakana_letter_Ti.svg",
+        "trad": "chi",
+        "id": 16
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Katakana_letter_Tu.svg",
+        "trad": "tsu",
+        "id": 17
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Katakana_letter_Te.svg",
+        "trad": "te",
+        "id": 18
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Katakana_letter_To.svg",
+        "trad": "to",
+        "id": 19
+    }
+]
